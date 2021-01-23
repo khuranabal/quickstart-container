@@ -1,6 +1,6 @@
 ## Build image
 
-`docker build -t wapi -f Dockerfile .`
+`docker build -t wapi -f sample-http-api/Dockerfile .`
 
 ## Initialize container to start the api
 
