@@ -1,3 +1,8 @@
+## Prerequisite
+
+* docker
+
+
 ## Build image
 
 `docker build -t wapi -f sample-http-api/Dockerfile .`
